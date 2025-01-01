@@ -4,7 +4,7 @@ and knows the basics of Python and even less from FORTRAN.
 You will propably find a very bad programs here!
 A turn based strategy game is under slow development,  
 first version will be avalitable in some time.  
-And I want to apologise for my English.
+Also I want to apologise for my English.
 
 
 <!---
